@@ -1,0 +1,4 @@
+spring:
+  application:
+    birth: 2026-09-09
+    name: spr202602
